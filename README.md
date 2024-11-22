@@ -42,5 +42,11 @@ A PyQt5-based weather application that provides real-time weather updates and a 
 4. View the results and 12-hour forecast displayed in the GUI.
 
 ## Screenshot
+Here is a screenshot of the Weather App:
+
+![Weather App Screenshot](screenshots/AppPic.png)
 
 ## Video
+Check out a video demonstration of the app:
+
+![Weather App Demo](screenshots/AppVideo.gif)
